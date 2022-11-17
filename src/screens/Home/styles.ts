@@ -10,3 +10,9 @@ export const Header = styled.ImageBackground`
   
   padding: 0 24px 16px;
 `;
+
+export const Content = styled.View`
+  flex: 1;
+  align-items: center;
+  justify-content: center;
+`;
